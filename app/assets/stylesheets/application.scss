@@ -1,1 +1,24 @@
 @import "bootstrap/scss/bootstrap";
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.container {
+  padding: 5rem 0;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1 {
+  padding: 2rem;
+}
+
+h2 {
+  padding: 2rem;
+}
